@@ -17,14 +17,14 @@ My name is Piyush Jadhav. I am a graduate student at San Diego State University 
 ## Languages & Tools &#9989;
 <p align='left'>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.png" alt="python" width="auto" height="30"/>
-    <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg' height='30' width='auto' alt="redux">
-     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' height='30' width='auto' alt="typescript">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cypress.svg' height='30' width='auto' alt="cypress">
+    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1920px-R_logo.svg.png' height='30' width='auto' alt="r">
+   <img src='https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png' height='30' width='auto' alt="powerbi">
+     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/900px-ArcGIS_logo.png' height='30' width='auto' alt="arcgis">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/744px-PyTorch_logo_icon.svg.png' alt="pytorch" width="40" height="40">
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/173px-Tensorflow_logo.svg.png' height='30' width='auto' alt="tensorflow">
      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' height='30' width='auto' alt="java">
-       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' height='30' width='auto' alt="spring">
+       <img src='https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png' height='30' width='auto' alt="gcp">
      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mocha.svg' height='30' width='auto' alt="mocha">
        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jest.svg' height='30' width='auto' alt="jest">
 </p>
