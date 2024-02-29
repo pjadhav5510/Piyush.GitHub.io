@@ -16,7 +16,7 @@ My name is Piyush Jadhav. I am a graduate student at San Diego State University 
 
 ## Languages & Tools &#9989;
 <p align='left'>
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*UUOuPoS3rX6vqDGY.jpg" alt="python" width="auto" height="30"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.png" alt="python" width="auto" height="30"/>
     <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg' height='30' width='auto' alt="redux">
      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' height='30' width='auto' alt="typescript">
