@@ -22,12 +22,17 @@ My name is Piyush Jadhav. I am a graduate student at San Diego State University 
      <img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/ArcGIS_logo_%28cropped%29.png?20210321190132' width="40" height="40" alt="arcgis">
   <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="40" height="40">
   <img src='https://www.svgrepo.com/show/354240/pytorch.svg' alt="pytorch" width="40" height="40">
+  <img src='https://www.svgrepo.com/show/373938/numpy.svg' alt="numpy" width="40" height="40">
    <img src='https://www.svgrepo.com/show/354440/tensorflow.svg' width="40" height="40" alt="tensorflow">
      <img src='https://www.svgrepo.com/show/452234/java.svg' width="40" height="40" alt="java">
        <img src='https://www.svgrepo.com/show/448223/gcp.svg' width="40" height="40" alt="gcp">
+  <img src='https://www.svgrepo.com/show/353949/jupyter.svg' width="40" height="40" alt="jupyter notebook">
+  <img src='https://www.svgrepo.com/show/503359/github.svg' width="40" height="40" alt="github">
+  <img src='https://www.svgrepo.com/show/448266/aws.svg' width="40" height="40" alt="aws">
      <img src='https://www.svgrepo.com/show/303251/mysql-logo.svg' width="40" height="40" alt="mysql">
        <img src='https://www.svgrepo.com/show/439231/mongodb.svg' width="40" height="40" alt="mongodb">
   <img src='https://www.svgrepo.com/show/520329/wordpress.svg' width="40" height="40" alt="wordpress">
+  
 </p>
 
 ##  Connect with me &#129309;
