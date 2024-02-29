@@ -25,7 +25,7 @@ My name is Piyush Jadhav. I am a graduate student at San Diego State University 
    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/173px-Tensorflow_logo.svg.png' height='30' width='auto' alt="tensorflow">
      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' height='30' width='auto' alt="java">
        <img src='https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png' height='30' width='auto' alt="gcp">
-     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mocha.svg' height='30' width='auto' alt="mocha">
+     <img src='https://www.svgrepo.com/show/303251/mysql-logo.svg' height='30' width='auto' alt="mysql">
        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jest.svg' height='30' width='auto' alt="jest">
 </p>
 
