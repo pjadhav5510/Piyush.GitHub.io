@@ -21,7 +21,7 @@ My name is Piyush Jadhav. I am a graduate student at San Diego State University 
    <img src='https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png' height='30' width='auto' alt="powerbi">
      <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/900px-ArcGIS_logo.png' height='30' width='auto' alt="arcgis">
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/744px-PyTorch_logo_icon.svg.png' alt="pytorch" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/99px-PyTorch_logo_icon.svg.png?20200318225611' alt="pytorch" width="40" height="40">
    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/173px-Tensorflow_logo.svg.png' height='30' width='auto' alt="tensorflow">
      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' height='30' width='auto' alt="java">
        <img src='https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png' height='30' width='auto' alt="gcp">
