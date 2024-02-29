@@ -27,6 +27,7 @@ My name is Piyush Jadhav. I am a graduate student at San Diego State University 
        <img src='https://www.svgrepo.com/show/448223/gcp.svg' height='30' width='auto' alt="gcp">
      <img src='https://www.svgrepo.com/show/303251/mysql-logo.svg' height='30' width='auto' alt="mysql">
        <img src='https://www.svgrepo.com/show/439231/mongodb.svg' height='30' width='auto' alt="mongodb">
+  <img src='https://www.svgrepo.com/show/520329/wordpress.svg' height='30' width='auto' alt="wordpress">
 </p>
 
 ##  Connect with me &#129309;
