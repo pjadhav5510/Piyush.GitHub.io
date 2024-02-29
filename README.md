@@ -27,11 +27,11 @@ My name is Piyush Jadhav. I am a graduate student at San Diego State University 
      <img src='https://www.svgrepo.com/show/452234/java.svg' width="40" height="40" alt="java">
        <img src='https://www.svgrepo.com/show/448223/gcp.svg' width="40" height="40" alt="gcp">
   <img src='https://www.svgrepo.com/show/353949/jupyter.svg' width="40" height="40" alt="jupyter notebook">
-  <img src='https://www.svgrepo.com/show/503359/github.svg' width="40" height="40" alt="github">
+  <img src='https://www.svgrepo.com/show/475654/github-color.svg' width="40" height="40" alt="github">
   <img src='https://www.svgrepo.com/show/448266/aws.svg' width="40" height="40" alt="aws">
      <img src='https://www.svgrepo.com/show/303251/mysql-logo.svg' width="40" height="40" alt="mysql">
        <img src='https://www.svgrepo.com/show/439231/mongodb.svg' width="40" height="40" alt="mongodb">
-  <img src='https://www.svgrepo.com/show/520329/wordpress.svg' width="40" height="40" alt="wordpress">
+  <img src='https://www.svgrepo.com/show/475696/wordpress-color.svg' width="40" height="40" alt="wordpress">
   
 </p>
 
