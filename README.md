@@ -16,18 +16,18 @@ My name is Piyush Jadhav. I am a graduate student at San Diego State University 
 
 ## Languages & Tools &#9989;
 <p align='left'>
-  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="auto" height="30"/>
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1920px-R_logo.svg.png' height='30' width='auto' alt="r">
-   <img src='https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png' height='30' width='auto' alt="powerbi">
-     <img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/ArcGIS_logo_%28cropped%29.png?20210321190132' height='30' width='auto' alt="arcgis">
+  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40"/>
+    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1920px-R_logo.svg.png' width="40" height="40" alt="r">
+   <img src='https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png' width="40" height="40" alt="powerbi">
+     <img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/ArcGIS_logo_%28cropped%29.png?20210321190132' width="40" height="40" alt="arcgis">
   <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="40" height="40">
   <img src='https://www.svgrepo.com/show/354240/pytorch.svg' alt="pytorch" width="40" height="40">
-   <img src='https://www.svgrepo.com/show/354440/tensorflow.svg' height='30' width='auto' alt="tensorflow">
-     <img src='https://www.svgrepo.com/show/452234/java.svg' height='30' width='auto' alt="java">
-       <img src='https://www.svgrepo.com/show/448223/gcp.svg' height='30' width='auto' alt="gcp">
-     <img src='https://www.svgrepo.com/show/303251/mysql-logo.svg' height='30' width='auto' alt="mysql">
-       <img src='https://www.svgrepo.com/show/439231/mongodb.svg' height='30' width='auto' alt="mongodb">
-  <img src='https://www.svgrepo.com/show/520329/wordpress.svg' height='30' width='auto' alt="wordpress">
+   <img src='https://www.svgrepo.com/show/354440/tensorflow.svg' width="40" height="40" alt="tensorflow">
+     <img src='https://www.svgrepo.com/show/452234/java.svg' width="40" height="40" alt="java">
+       <img src='https://www.svgrepo.com/show/448223/gcp.svg' width="40" height="40" alt="gcp">
+     <img src='https://www.svgrepo.com/show/303251/mysql-logo.svg' width="40" height="40" alt="mysql">
+       <img src='https://www.svgrepo.com/show/439231/mongodb.svg' width="40" height="40" alt="mongodb">
+  <img src='https://www.svgrepo.com/show/520329/wordpress.svg' width="40" height="40" alt="wordpress">
 </p>
 
 ##  Connect with me &#129309;
