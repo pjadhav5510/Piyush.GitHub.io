@@ -8,7 +8,7 @@ My name is Piyush Jadhav. I am a graduate student at San Diego State University 
 
 ## About Me &#9997;
 -  🔭 I’m currently working as a Research Graduate Assistant for the past year at STAR Labs San Diego State University.
-- 💬 Ask me about Machine Learning Models for supervised Learning and unsupervised learning .
+- 💬 Ask me about Machine Learning Models for supervised Learning, unsupervised learning and Reinforcement Learning.
 - 💬 For data visualization I have been working on various tools which includes PowerBI, ArcGIS, and Tableau.
 - 💬 You can also talk to me about databases like MySQL, MongoDB, and PostgreSQL.
 -  📫 Reach me at **jpiyush336@gmail.com**
