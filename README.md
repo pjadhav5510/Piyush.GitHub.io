@@ -32,9 +32,9 @@ My name is Piyush Jadhav. I am a graduate student at San Diego State University 
 ##  Connect with me &#129309;
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyankabirajdar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/priyankabirajdar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyankabirajdar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/piyushjadhav04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyankabirajdar" height="30" width="40" /></a>
 <a href="https://instagram.com/priyankabirajdar_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashimaahuja" height="30" width="40" /></a>
-<a href="https://github.com/piabirajdar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="priyankabirajdar" height="30" width="40" /></a>  
+<a href="https://github.com/pjadhav5510" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="priyankabirajdar" height="30" width="40" /></a>  
 
 
 
