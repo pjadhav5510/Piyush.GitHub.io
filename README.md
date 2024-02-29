@@ -19,7 +19,7 @@ My name is Piyush Jadhav. I am a graduate student at San Diego State University 
   <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="auto" height="30"/>
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1920px-R_logo.svg.png' height='30' width='auto' alt="r">
    <img src='https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png' height='30' width='auto' alt="powerbi">
-     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_lo  go.png/900px-ArcGIS_logo.png' height='30' width='auto' alt="arcgis">
+     <img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/ArcGIS_logo_%28cropped%29.png?20210321190132' height='30' width='auto' alt="arcgis">
   <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="40" height="40">
   <img src='https://www.svgrepo.com/show/354240/pytorch.svg' alt="pytorch" width="40" height="40">
    <img src='https://www.svgrepo.com/show/354440/tensorflow.svg' height='30' width='auto' alt="tensorflow">
